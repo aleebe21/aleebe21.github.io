@@ -11,6 +11,9 @@ date: 2025-04-06
 
 Hi
 
+<iframe src="/assets/pngs/visualization-2.png" width="100%" height="600"></iframe>
+
+
 ---
 
 ## 🌍 Visualization 2: Global UFO Sightings Map
