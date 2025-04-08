@@ -26,3 +26,4 @@ This interactive map highlights the global distribution of UFO sightings from a 
 ## View the Full Notebook
 
 [**Open UFO Visualizations Notebook**](https://github.com/aleebe21/aleebe21.github.io/blob/main/_projects/ufo_visualizations.ipynb)
+[**Open the Dataset**](https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/ufo-scrubbed-geocoded-time-standardized-00.csv)
