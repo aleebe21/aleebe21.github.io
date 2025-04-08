@@ -15,7 +15,7 @@ Hi
 
 ##  Visualization 2: Global UFO Sightings Map
 
-![Global UFO Sightings Map](/assets/visualization.html)
+<iframe src="/assets/visualization.html" width="100%" height="600"></iframe>
 
 
 This interactive map highlights the global distribution of UFO sightings from a 10,000-sample dataset.
