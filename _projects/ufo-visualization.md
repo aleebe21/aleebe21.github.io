@@ -5,6 +5,19 @@ image: assets/pngs/visualization.png
 layout: project
 collection: projects
 date: 2025-04-06
+
+---
+name: Vega fdsfdsdas Example Project
+tools: [Python, HTML, vega-lite]
+image: assets/pngs/cars.png
+description: This is a "showcase" project that uses vega-lite for interactive viz!
+custom_js:
+  - vega.min
+  - vega-lite.min
+  - vega-embed.min
+  - justcharts
+---
+
 ---
 
 ##  Visualization 1: Top 10 UFO Shapes
