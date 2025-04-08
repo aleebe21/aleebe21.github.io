@@ -1,6 +1,7 @@
 ---
 title: "UFO Sightings Visualization"
 excerpt: "A global analysis of 10,000 UFO sightings using Altair and Python"
+image: assets/pngs/map_thumb.png
 layout: project
 collection: projects
 date: 2025-04-06
