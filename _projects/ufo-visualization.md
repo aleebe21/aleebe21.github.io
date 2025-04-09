@@ -1,8 +1,8 @@
 ---
-name: "HW 5: UFO Sightings Visualization"
+title: "HW 5: UFO Sightings Visualization"
 desc: "A data visualization analysis on 10,000 UFO sightings using Altair and Python"
 layout: project
-image: ![Visualization 2](/assets/pngs/visualization-2.png)
+image: /assets/pngs/visualization-2.png
 collection: projects
 date: 2025-04-06
 ---
