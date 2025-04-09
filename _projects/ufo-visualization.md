@@ -18,6 +18,8 @@ I created this chart by ensuring that any rows in which the shape was unknown we
 
 ## Visualization 2: Global UFO Sightings Map
 
+ The second graphic is of a world map overlayed with where 10,000 sampled UFO sightings took place. You can see the notebook to see how I conducted this. This is a strong plot because it's an interactive plot; the user can filter for sightings based on country and year, so they can explore and figure out how and when sightings change over time. I wanted to essentially showcase the sightings over time, in a geographical and chronological sense. I wanted it to also allow for country selection, so I implemented a dropdown filter was constructed using alt.binding_select(). I wanted to also have an intuitive numeric range slider to filter by year, so that was created through alt.binding_range(). But for that to happen, the datetime column used as a field for the slider field was converted to a datetime object and the year generated, allowing users to navigate by year. By filtering by year in addition to country, one can see when sightings happened and where - only to find out certain years had more reported or interesting trends exist in certain countries and not others. The best part about this is that it tells a story - it does a lot of data story telling, holds a narrative, allowing the data to serve as not just as an overview, but of international history and geography of how much we are intrigued by things that you see unidentified in the sky.
+ 
 <iframe src="/assets/pngs/visualization.html" width="100%" height="600"></iframe>
 
 This interactive map highlights the global distribution of UFO sightings from a 10,000-sample dataset.
