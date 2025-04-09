@@ -1,13 +1,9 @@
 ---
-name: Vega Lite Example Project
-tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
-description: This is a "showcase" project that uses vega-lite for interactive viz!
-custom_js:
-  - vega.min
-  - vega-lite.min
-  - vega-embed.min
-  - justcharts
+title: "UFO Sightings Visualization"
+excerpt: "A global analysis of 10,000 UFO sightings using Altair and Python"
+layout: project
+collection: projects
+date: 2025-04-06
 ---
 
 ## Visualization 1: Top 10 UFO Shapes
@@ -18,7 +14,7 @@ Hi
 
 ---
 
-## 🌍 Visualization 2: Global UFO Sightings Map
+## Visualization 2: Global UFO Sightings Map
 
 <iframe src="/assets/pngs/visualization.html" width="100%" height="600"></iframe>
 
