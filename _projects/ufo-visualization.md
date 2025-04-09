@@ -2,7 +2,7 @@
 name: "HW 5: UFO Sightings Visualization"
 desc: "A data visualization analysis on 10,000 UFO sightings using Altair and Python"
 layout: project
-image: <iframe src="/assets/pngs/visualization-2.png" width="100%" height="600"></iframe>
+image: ![Visualization 2](/assets/pngs/visualization-2.png)
 collection: projects
 date: 2025-04-06
 ---
