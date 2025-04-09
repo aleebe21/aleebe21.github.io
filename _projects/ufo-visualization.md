@@ -5,6 +5,7 @@ layout: project
 image: /assets/pngs/visualization-2.png
 collection: projects
 date: 2025-04-06
+permalink: /projects/ufo_visualization/index.html
 ---
 
 ## Visualization 1: Top 10 UFO Shapes
